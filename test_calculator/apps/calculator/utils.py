@@ -5,9 +5,9 @@ class BaseCalculator:
     """
     Base class for math operation
 
-    It woould be cool to add here method calculate with
+    It would be cool to add here method 'calculate' with
     raise NotImplementedError
-    but we could have same method but different input data
+    but we have different input data
     So I decided to skip it
     """
 
